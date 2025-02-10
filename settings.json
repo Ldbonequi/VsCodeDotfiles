@@ -1,0 +1,27 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Leo\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
+    "redhat.telemetry.enabled": false,
+    "java.jdt.ls.java.home": "",
+    "github.copilot.editor.enableAutoCompletions": false,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.confirmSync": false,
+    "chat.commandCenter.enabled": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "debug.onTaskErrors": "debugAnyway",
+    "vim.smartRelativeLine": true,
+    "git.openRepositoryInParentFolders": "always",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.layoutControl.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.commandCenter": false,
+    "window.closeWhenEmpty": true,
+    "remote.SSH.remotePlatform": {
+        "shallot.cs.colostate.edu": "linux"
+    }
+    
+}
