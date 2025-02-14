@@ -295,7 +295,7 @@
                     "key": "F",
                     "name": "[O]pen [F]older",
                     "type": "command",
-                    "command": "extension.quickOpenPath"
+                    "command": "open-folder.open"
                 },
             ]
         },
