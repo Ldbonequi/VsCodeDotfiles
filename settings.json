@@ -1,4 +1,4 @@
-
+{
     "window.menuBarVisibility": "compact",
     "editor.fontFamily": "JetBrainsMono Nerd Font",
     "window.commandCenter": false,
@@ -289,13 +289,13 @@
                     "key": "f",
                     "name": "[O]pen [f]ile",
                     "type": "command",
-                    "command": "workbench.action.files.openFile",
+                    "command": "extension.quickOpen",
                 },
                 {
                     "key": "F",
                     "name": "[O]pen [F]older",
                     "type": "command",
-                    "command": "workbench.action.files.openFolder",
+                    "command": "extension.quickOpenPath"
                 },
             ]
         },
